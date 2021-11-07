@@ -46,7 +46,7 @@ C++ IDE (C++11 or higher)
 #### Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Siddhantshelake/library-management-system.git
 ```
 
 ```
@@ -62,19 +62,19 @@ C++ IDE (C++11 or higher)
 ## Screenshots
 
 #### LOGIN
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/library-management-system/blob/master/screenshots/login.PNG)
 
 
 #### MAIN MENU
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/library-management-system/blob/master/screenshots/main%20menu.PNG)
 
 
 #### ADMINISTRATOR MENU   
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/library-management-system/blob/master/screenshots/ADMINISTRATOR%20MENU.PNG)
 
 
 ## Demo
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/Siddhantshelake/library-management-system/blob/master/screenshots/demo.gif)
