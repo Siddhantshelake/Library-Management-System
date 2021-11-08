@@ -75,6 +75,4 @@ C++ IDE (C++11 or higher)
 
 ## Demo
 
-Insert gif or link to demo
-
 ![Alt Text](https://github.com/Siddhantshelake/library-management-system/blob/master/screenshots/demo.gif)
